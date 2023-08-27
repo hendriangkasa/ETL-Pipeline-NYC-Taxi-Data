@@ -16,4 +16,4 @@ The goal of this project is to perform ETL and data analytics on NYC's taxi data
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-![Data Model](https://github.com/hendriangkasa/ETL-Pipeline-NYC-Taxi-Data/blob/main/Data%20Model.pdf)
+![Data Model](https://github.com/hendriangkasa/ETL-Pipeline-NYC-Taxi-Data/blob/main/Data%20Model.png)
